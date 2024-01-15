@@ -18,6 +18,10 @@ Recorde: Sua melhor pontuação (a maior pontuação que você alcançou em toda
 
 Vitória: Se você adivinhar o número dentro das 5 tentativas, você vence!
 
+## Layout Web
+
+![web-layout](https://github.com/vitor-senna/adivinhar-o-numero/blob/master/layout-web-editado.png)
+
 ## Licença MIT
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/vitor-senna/adivinhar-o-numero/blob/main/LICENSE)
