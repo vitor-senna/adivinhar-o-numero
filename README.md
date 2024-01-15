@@ -1,18 +1,25 @@
 # Adivinhar o Número
 
-# Link do Jogo
+# Link do Game
 
-https://master--jogo-adivinhar-o-numero-vitor-senna.netlify.app/
+https://master--game-adivinhar-o-numero-vitor-senna.netlify.app/
 
-## Introdução ao jogo
+## Introdução ao Game
 
-Em 'Adivinhar o Número', você enfrenta o desafio de adivinhar um número secreto de 1 a 20. Usando intuição e pistas limitadas, sua missão é descobrir se o número está acima ou abaixo de seus palpites. Cada tentativa é uma batalha mental empolgante, onde estratégia e audácia se combinam. Cada erro o aproxima da solução, tornando o jogo uma jornada emocionante de suspense e revelações. 'Adivinhar o Número' é uma experiência viciante que testa sua astúcia e diversão matemática, transformando cada palpite em um passo em direção ao mistério resolvido.
+O Game 'Adivinhar o Número' consiste em você enfrenta o desafio de
+adivinhar um número secreto de 1 a 20. Usando intuição e pistas limitadas, sua
+missão é descobrir se o número está acima ou abaixo de seus palpites. Cada
+tentativa é uma batalha mental empolgante, onde estratégia e audácia se
+combinam. Cada erro o aproxima da solução, tornando o game uma jornada
+emocionante de suspense e revelações. 'Adivinhar o Número' é uma experiência
+viciante que testa sua astúcia e diversão matemática, transformando cada palpite
+em um passo em direção ao mistério resolvido.
 
-## Regras do Jogo:
+## Regras do Game:
 
-Pontuação Inicial: Você começa o jogo com 20 pontos.
+Pontuação Inicial: Você começa o game com 20 pontos.
 
-Número Secreto: O jogo seleciona um número secreto.
+Número Secreto: O game seleciona um número secreto.
 
 Tentativas: Você tem 5 tentativas para adivinhar o número secreto. O contador ao lado direito da tela contabiliza-as.
 
